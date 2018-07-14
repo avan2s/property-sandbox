@@ -1,0 +1,8 @@
+prop1:
+  a: 25
+  b: "http://www.google.de"
+  c: hallo
+prop2:
+  a: 34
+  b: "www.web.de"
+  c: "ciao"
